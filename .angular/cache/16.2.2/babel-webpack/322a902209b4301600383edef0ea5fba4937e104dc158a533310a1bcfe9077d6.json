@@ -1,1 +1,3 @@
-{"ast":null,"code":"export function identity(x) {\n  return x;\n}","map":{"version":3,"names":["identity","x"],"sources":["/Users/orionramey/Desktop/WGU/Javascript programming/Archive/node_modules/rxjs/dist/esm/internal/util/identity.js"],"sourcesContent":["export function identity(x) {\n    return x;\n}\n"],"mappings":"AAAA,OAAO,SAASA,QAAQA,CAACC,CAAC,EAAE;EACxB,OAAOA,CAAC;AACZ"},"metadata":{},"sourceType":"module","externalDependencies":[]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f85bf958bb9be961bc1a3d3d7efa97cf0e63b8158850a2b0e4ecc387369f682
+size 446

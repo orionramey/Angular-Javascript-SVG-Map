@@ -1,1 +1,3 @@
-{"ast":null,"code":"import { AsyncScheduler } from './AsyncScheduler';\nexport class QueueScheduler extends AsyncScheduler {}","map":{"version":3,"names":["AsyncScheduler","QueueScheduler"],"sources":["/Users/orionramey/Desktop/WGU/Javascript programming/Archive/node_modules/rxjs/dist/esm/internal/scheduler/QueueScheduler.js"],"sourcesContent":["import { AsyncScheduler } from './AsyncScheduler';\nexport class QueueScheduler extends AsyncScheduler {\n}\n"],"mappings":"AAAA,SAASA,cAAc,QAAQ,kBAAkB;AACjD,OAAO,MAAMC,cAAc,SAASD,cAAc,CAAC"},"metadata":{},"sourceType":"module","externalDependencies":[]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:13641a224c7b433e7f4ece42b44922f99765b7e32880c5e0f16b8f7719d6bf6c
+size 602

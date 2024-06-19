@@ -1,1 +1,3 @@
-{"ast":null,"code":"import { filter } from './filter';\nexport function skip(count) {\n  return filter((_, index) => count <= index);\n}","map":{"version":3,"names":["filter","skip","count","_","index"],"sources":["/Users/orionramey/Desktop/WGU/Javascript programming/Archive/node_modules/rxjs/dist/esm/internal/operators/skip.js"],"sourcesContent":["import { filter } from './filter';\nexport function skip(count) {\n    return filter((_, index) => count <= index);\n}\n"],"mappings":"AAAA,SAASA,MAAM,QAAQ,UAAU;AACjC,OAAO,SAASC,IAAIA,CAACC,KAAK,EAAE;EACxB,OAAOF,MAAM,CAAC,CAACG,CAAC,EAAEC,KAAK,KAAKF,KAAK,IAAIE,KAAK,CAAC;AAC/C"},"metadata":{},"sourceType":"module","externalDependencies":[]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c896fd1ea904c2cbde557b4b6886355eb6b86be9f7b42218c4a4ca469fbc92f
+size 692

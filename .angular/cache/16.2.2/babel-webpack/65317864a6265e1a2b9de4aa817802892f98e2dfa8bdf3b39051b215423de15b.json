@@ -1,1 +1,3 @@
-{"ast":null,"code":"import { Observable } from '../Observable';\nimport { noop } from '../util/noop';\nexport const NEVER = new Observable(noop);\nexport function never() {\n  return NEVER;\n}","map":{"version":3,"names":["Observable","noop","NEVER","never"],"sources":["/Users/orionramey/Desktop/WGU/Javascript programming/Archive/node_modules/rxjs/dist/esm/internal/observable/never.js"],"sourcesContent":["import { Observable } from '../Observable';\nimport { noop } from '../util/noop';\nexport const NEVER = new Observable(noop);\nexport function never() {\n    return NEVER;\n}\n"],"mappings":"AAAA,SAASA,UAAU,QAAQ,eAAe;AAC1C,SAASC,IAAI,QAAQ,cAAc;AACnC,OAAO,MAAMC,KAAK,GAAG,IAAIF,UAAU,CAACC,IAAI,CAAC;AACzC,OAAO,SAASE,KAAKA,CAAA,EAAG;EACpB,OAAOD,KAAK;AAChB"},"metadata":{},"sourceType":"module","externalDependencies":[]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa72abed1ffc72d5c03a78b74342e411de3fb2ae174782996fcc20c68d3ed805
+size 827

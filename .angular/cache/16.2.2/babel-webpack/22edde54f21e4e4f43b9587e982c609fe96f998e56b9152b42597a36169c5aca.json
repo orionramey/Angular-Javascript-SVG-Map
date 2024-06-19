@@ -1,1 +1,3 @@
-{"ast":null,"code":"import { map } from './map';\nexport function mapTo(value) {\n  return map(() => value);\n}","map":{"version":3,"names":["map","mapTo","value"],"sources":["/Users/orionramey/Desktop/WGU/Javascript programming/Archive/node_modules/rxjs/dist/esm/internal/operators/mapTo.js"],"sourcesContent":["import { map } from './map';\nexport function mapTo(value) {\n    return map(() => value);\n}\n"],"mappings":"AAAA,SAASA,GAAG,QAAQ,OAAO;AAC3B,OAAO,SAASC,KAAKA,CAACC,KAAK,EAAE;EACzB,OAAOF,GAAG,CAAC,MAAME,KAAK,CAAC;AAC3B"},"metadata":{},"sourceType":"module","externalDependencies":[]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2fed188504527507fae27234a2a56fad354724ac61be8fbd534935651490708
+size 596

@@ -1,1 +1,3 @@
-{"ast":null,"code":"const {\n  isArray\n} = Array;\nexport function argsOrArgArray(args) {\n  return args.length === 1 && isArray(args[0]) ? args[0] : args;\n}","map":{"version":3,"names":["isArray","Array","argsOrArgArray","args","length"],"sources":["/Users/orionramey/Desktop/WGU/Javascript programming/Archive/node_modules/rxjs/dist/esm/internal/util/argsOrArgArray.js"],"sourcesContent":["const { isArray } = Array;\nexport function argsOrArgArray(args) {\n    return args.length === 1 && isArray(args[0]) ? args[0] : args;\n}\n"],"mappings":"AAAA,MAAM;EAAEA;AAAQ,CAAC,GAAGC,KAAK;AACzB,OAAO,SAASC,cAAcA,CAACC,IAAI,EAAE;EACjC,OAAOA,IAAI,CAACC,MAAM,KAAK,CAAC,IAAIJ,OAAO,CAACG,IAAI,CAAC,CAAC,CAAC,CAAC,GAAGA,IAAI,CAAC,CAAC,CAAC,GAAGA,IAAI;AACjE"},"metadata":{},"sourceType":"module","externalDependencies":[]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d6792d01addf155d1b745fd5f7947076c98e9675a48dac9ab9feb09dd902ab6
+size 811

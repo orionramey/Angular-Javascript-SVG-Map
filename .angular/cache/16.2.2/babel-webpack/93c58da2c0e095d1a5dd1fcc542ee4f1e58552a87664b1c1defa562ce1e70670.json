@@ -1,1 +1,3 @@
-{"ast":null,"code":"import { mergeMap } from './mergeMap';\nexport const flatMap = mergeMap;","map":{"version":3,"names":["mergeMap","flatMap"],"sources":["/Users/orionramey/Desktop/WGU/Javascript programming/Archive/node_modules/rxjs/dist/esm/internal/operators/flatMap.js"],"sourcesContent":["import { mergeMap } from './mergeMap';\nexport const flatMap = mergeMap;\n"],"mappings":"AAAA,SAASA,QAAQ,QAAQ,YAAY;AACrC,OAAO,MAAMC,OAAO,GAAGD,QAAQ"},"metadata":{},"sourceType":"module","externalDependencies":[]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b59b1f72ec2aeb9d74f8cd689e99ca46b07dfe9013f54622efcd1ab390c56616
+size 507

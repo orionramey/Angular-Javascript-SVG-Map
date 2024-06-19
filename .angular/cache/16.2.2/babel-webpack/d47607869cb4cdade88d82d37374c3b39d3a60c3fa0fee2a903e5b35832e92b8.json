@@ -1,1 +1,3 @@
-{"ast":null,"code":"var EventEmitter = require(\"events\");\nmodule.exports = new EventEmitter();","map":{"version":3,"names":["EventEmitter","require","module","exports"],"sources":["/Users/orionramey/Desktop/WGU/Javascript programming/Archive/node_modules/webpack/hot/emitter.js"],"sourcesContent":["var EventEmitter = require(\"events\");\nmodule.exports = new EventEmitter();\n"],"mappings":"AAAA,IAAIA,YAAY,GAAGC,OAAO,CAAC,QAAQ,CAAC;AACpCC,MAAM,CAACC,OAAO,GAAG,IAAIH,YAAY,CAAC,CAAC"},"metadata":{},"sourceType":"script","externalDependencies":[]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5053d9e7b12f595650279a8618646141451cc12109d4223dbb32638d04737c62
+size 551
