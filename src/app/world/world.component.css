@@ -1,0 +1,10 @@
+
+  .map > svg > path {
+    cursor: pointer;
+  }
+
+.map path {
+    stroke: mintcream; 
+    stroke-width: 1;
+  }
+  
