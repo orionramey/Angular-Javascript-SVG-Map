@@ -1,4 +1,4 @@
-# WGUD280
+# This is my first project utilizing Angular and Javascript
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
